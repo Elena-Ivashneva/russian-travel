@@ -1,0 +1,6 @@
+@media screen and (min-width: 1224px) {
+  .page__section_type_small {
+    padding-left: 148px;
+    padding-right: 148px;
+  }
+}
